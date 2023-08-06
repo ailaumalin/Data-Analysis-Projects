@@ -41,17 +41,17 @@ However, according to this data from Standard Insights and Spiralytics, 72%+ of 
 
 #### 4. Which campaign has generated the most impressions?
 
-Of all of the campaigns, the '12 Days of Christmas Deals' generated the most impression because of the gift-giving tradition in the country. During this season, Christmas has the potential to leverage the festive spirit, high consumer spending, and emotional connections. Christmas is also a highly social time, meaning people are spending more time on social platforms for sharing and searching for holiday experiences, gift ideas, and purchases. More time on social platforms means increased consumer engagement.
+On the [chart here](https://docs.google.com/document/d/1niHQq5nhFGCDHjRcp7OkRoIOkXtOD5pbVB8J8iEhDsM/edit#heading=h.7e8zi1kvp3ec), of all of the campaigns, the '12 Days of Christmas Deals' generated the most impression because of the gift-giving tradition in the country. During this season, Christmas has the potential to leverage the festive spirit, high consumer spending, and emotional connections. Christmas is also a highly social time, meaning people are spending more time on social platforms for sharing and searching for holiday experiences, gift ideas, and purchases. More time on social platforms means increased consumer engagement.
 
 #### 5. How many unique users per location viewed the campaign with the most impressions?
 
-Looking at the given data, Metro Manila aces the Mindanao region by a small margin. The first serves as the bustling political, economic, and cultural hub of the country and the latter offers a contrasting experience.  While the unique users between regions may differ in their daily experiences, interests, and lifestyles, they share the same denominator, which is the love of giving during the Christmas Season.
+Looking at the [chart here](https://docs.google.com/document/d/1niHQq5nhFGCDHjRcp7OkRoIOkXtOD5pbVB8J8iEhDsM/edit#heading=h.o01mtyp13oa9), Metro Manila aces the Mindanao region by a small margin. The first serves as the bustling political, economic, and cultural hub of the country and the latter offers a contrasting experience.  While the unique users between regions may differ in their daily experiences, interests, and lifestyles, they share the same denominator, which is the love of giving during the Christmas Season.
 
 Moreover, this is also a good indication of the economic growth for Mindanao and Visayas as they can almost match the data of Metro Manila. It has been noted from Spiralytics data that businesses had wanted to explore the untapped market of Philippine Provinces and as part of the delivery improvements of e-commerce platforms, establishing logistical routes outside of the Greater Manila Area would be a great way to expand their reach. 
 
 #### 6. What are the total impressions and CTR for each product category per user segment?
 
-Since there is a lot of data to be visualized, the answer to this question is presented as a Dashboard. Dashboards are customizable, visually appealing, easy to comprehend, and support data-driven decision-making. Therefore it will be much easier for the client to understand the results per category and/or rank.
+Since there are a lot of data to be visualized, the answer to this question is presented as a [Dashboard](https://docs.google.com/document/d/1niHQq5nhFGCDHjRcp7OkRoIOkXtOD5pbVB8J8iEhDsM/edit#heading=h.2yue85jn2b7o). Dashboards are customizable, visually appealing, easy to comprehend, and support data-driven decision-making. Therefore it will be much easier for the client to understand the results per category and/or rank.
 
 Based on the data above, in all user segments, the product category Sports and Outdoors has the most impression while Electronics and Gadgets have the highest CTR despite its low count of impressions.
 
