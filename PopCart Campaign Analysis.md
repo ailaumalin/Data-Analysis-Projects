@@ -20,7 +20,7 @@ Lastly, by implementing a quantitative methodology, insights and recommendations
 
 #### SQL Queries
 - [Data Cleaning](https://drive.google.com/file/d/1uIyINIZi2ruZmJ8U7gkKMSCDhRW8dgLC/view?usp=drive_link)
-- Answers
+- [Queries per Question](https://drive.google.com/file/d/1BH_TYUC2XzjH0knXVJpTSNQEWqYZojaQ/view?usp=drive_link)
 
 ### Findings
 #### 1. What is the overall click-through rate (CTR) for the campaigns launched by the company?
