@@ -69,6 +69,48 @@ Lastly, for the age groups user segments —- Sports & Outdoors, Health & Beauty
 
 Based on the reports from Statista, Locad, and Spiralytics, more than half of Filipino online shoppers are of the younger generation ranging from 25 to 34 years old. Even if this age group had ranked 3rd and 4th place in this analysis, there is a huge potential to utilize the spending capacity of the younger generation which is why PopCart should launch more campaigns that focus on this demographic. 
 
+### RECOMMENDATIONS
+Here are recommendations and suggestions formulated that align with the result. These recommendations aim to aid PopCart in creating a strategy that will effectively boost its sales.
+- Create a campaign that would focus on ‘Sports and Outdoors’ and ‘Electronic and Gadgets’. 
+- Bundling them together where in the other one can be bought for a discounted price. Match electronic gadgets with Sports/outdoor items for more engagement, i.e. a smartwatch (Fitbit watch) with running shoes.
+- Design marketing promotions that are male-centric.
+- Design promotions tailored to women will actively encourage increased female engagement and shopping activity on PopCart.
+- Collaborate with sports and technology influencers or bloggers that have a strong presence in the male demographic.
+- Introduce a referral program for users wherein they can accumulate incentives.
+- Sponsor sports, technology, and e-sport events. Align PopCart’s brand through leagues or specific sports and e-sports teams. As sponsorship can provide more visibility for the brand and generate more direct and indirect engagements.
+- Utilize experiential marketing wherein customers can interact with PopCart pop-up shops to try limited-release, or pre-release gadgets or sports/outdoor equipment and experience their benefits firsthand. Then the customers can only purchase it through PopCart’s website/app or at the event itself. A hands-on approach can generate word-of-mouth buzz among enthusiasts.
+- Optimize PopCart’s mobile and online shopping so it can be more user-friendly. At the age level of 45 years and above, the impressions start to dwindle down drastically. Optimizing it will allow the older age demographic to have an easier experience in navigating PopCart’s online shop.
+- PopCart is an e-commerce app that primarily focuses on lifestyle and fashion brands. However, given that there is a high interest in Electronics and Gadgets, they should expand their offerings for products under this category.
+- Launch marketing campaigns with target users outside of Metro Manila in order to explore the underutilized customers from the Philippine provinces and also to launch campaigns targeting the younger generation. 
+
+Here are also additional insights when it comes to the dataset provided:
+- To gain better insights, it is essential to collect data that captures both the 'date' and 'time' of users' online activity using PopCart. This data is instrumental in obtaining a thorough understanding of user behavior and engagement patterns
+- Capture the social media platform for impressions and clicks in order to find out which platform is the most effective when it comes to digital marketing. This data will help identify which platform PopCart can increase its marketing efforts on or if it would have to expand its reach by utilizing cross-platform marketing.
+- Include data on how much was invested in each campaign in order to analyze if the campaigns had been cost-effective. If they weren’t, we can look into other marketing approaches such as affiliate marketing which has significantly lower costs than online paid advertising according to this data.
+
+
+### Conclusion
+In conclusion, PopCart’s digital marketing campaign had been effective. Patterns and trends were uncovered within the data as well as answered the data analysis goals.
+
+The findings had been proven invaluable and significant in driving recommendations for the digital marketing campaign's further improvement. The recommendations provided will aid PopCart in its continuous growth.4
+
+### Disclaimer:
+- This project is a Refocus Group Project. The following individuals are involved in this project: Timothy Garcia, Aila Umalin, Amor Lina Gabitano, Aubrey De Asis, and Juleanne May Roque
+- The following resources are used in drawing inferences for the results:
+1. [Philippines’ E-commerce Shoppers at a Glance](https://golocad.com/blog/phillippine-shoppers/)
+2. [Distribution of online shoppers in the Philippines in 2018, by age group](https://www.statista.com/statistics/1032036/age-group-distribution-online-shoppers-philippines/)
+3. [Filipino Online Shopping Behavior: Statistics & Trends You Need to Know](https://www.spiralytics.com/blog/filipino-online-shopping-behavior-statistics-trends/#:~:text=According%20to%20research%2C%2052%25%20of,nearly%2080%25%20of%20all%20shoppers.)
+4. [CLICK-THROUGH RATE (CTR)](https://www.oberlo.com/ecommerce-wiki/click-through-rate-ctr)4
+5. [21 Top-Selling Products & Categories on Shopee Philippines 2023](https://golocad.com/blog/top-10-product-categories-shopee-philippines/)
+6. [Top Selling Products In Philippines Online 2022](https://www.eworldtrade.com/blog/top-selling-products-in-philippines-online/)
+7. [The E-Commerce Boom in The Philippines](https://standard-insights.com/blog/the-ecommerce-boom-in-the-philippines/)
+8. [Affiliate Marketing VS. Paid Advertising: Which Is Better?](https://www.refersion.com/blog/affiliate-marketing-paid-advertising/#:~:text=Because%20most%20of%20the%20marketing,t%20strain%20their%20cash%20flow.)
+
+
+
+
+
+
 
 
 
