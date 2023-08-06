@@ -103,7 +103,7 @@ The slides for data reporting and presentation can be found [here](https://docs.
 1. [Philippines’ E-commerce Shoppers at a Glance](https://golocad.com/blog/phillippine-shoppers/)
 2. [Distribution of online shoppers in the Philippines in 2018, by age group](https://www.statista.com/statistics/1032036/age-group-distribution-online-shoppers-philippines/)
 3. [Filipino Online Shopping Behavior: Statistics & Trends You Need to Know](https://www.spiralytics.com/blog/filipino-online-shopping-behavior-statistics-trends/#:~:text=According%20to%20research%2C%2052%25%20of,nearly%2080%25%20of%20all%20shoppers.)
-4. [CLICK-THROUGH RATE (CTR)](https://www.oberlo.com/ecommerce-wiki/click-through-rate-ctr)4
+4. [CLICK-THROUGH RATE (CTR)](https://www.oberlo.com/ecommerce-wiki/click-through-rate-ctr)
 5. [21 Top-Selling Products & Categories on Shopee Philippines 2023](https://golocad.com/blog/top-10-product-categories-shopee-philippines/)
 6. [Top Selling Products In Philippines Online 2022](https://www.eworldtrade.com/blog/top-selling-products-in-philippines-online/)
 7. [The E-Commerce Boom in The Philippines](https://standard-insights.com/blog/the-ecommerce-boom-in-the-philippines/)
