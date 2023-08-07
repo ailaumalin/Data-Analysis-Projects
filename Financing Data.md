@@ -7,5 +7,7 @@ Decision-makers will use insights from this report for their alternatives analys
 
 Dataset: [Investment](https://drive.google.com/file/d/1FL5OmKmRo_D5Wnws6vfzUpdypwxRxf8y/view?usp=drive_link)
 
+### Task 1: The given file is a file, and we must import the dataset by creating a new table and then filling out the data.
+
 
 
