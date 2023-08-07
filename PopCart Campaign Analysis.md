@@ -94,8 +94,9 @@ In conclusion, PopCart’s digital marketing campaign had been effective. Patter
 
 The findings had been proven invaluable and significant in driving recommendations for the digital marketing campaign's further improvement. The recommendations provided will aid PopCart in its continuous growth.4
 
-### Presentation
-The slides for data reporting and presentation can be found [here](https://docs.google.com/presentation/d/1K0-pXqNdXgXpWykHzQ0CE4cIATPBMgC4/edit?usp=sharing&ouid=117128195298887585041&rtpof=true&sd=true).
+### Other Links
+- The slides for data reporting and presentation can be found [here](https://docs.google.com/presentation/d/1K0-pXqNdXgXpWykHzQ0CE4cIATPBMgC4/edit?usp=sharing&ouid=117128195298887585041&rtpof=true&sd=true).
+- Excel files can be found [here](https://drive.google.com/drive/folders/1SoaBG4dZzIZnw3reuA2krPna228UXp6q?usp=drive_link)
 
 ### Disclaimer:
 - This project is a Refocus Group Project. The following individuals are involved in this project: Timothy Garcia, Aila Umalin, Amor Lina Gabitano, Aubrey De Asis, and Juleanne May Roque
