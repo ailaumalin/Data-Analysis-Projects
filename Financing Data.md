@@ -8,9 +8,8 @@ Decision-makers will use insights from this report for their alternatives analys
 Dataset: [Investment](https://drive.google.com/file/d/1FL5OmKmRo_D5Wnws6vfzUpdypwxRxf8y/view?usp=drive_link)
 
 ### Task 1: Import the dataset by creating a new table and then filling out the data.
-[Task 1 Query.txt](https://github.com/ailaumalin/Data-Analysis-Projects/files/12279470/Task.1.Query.txt)
 
 
-### Task 2: Pull out data from companies that have received funding and operate within FINANCIAL SERVICES the sector.
+### Task 2: Pull out data from companies that have received funding and operate within FINANCIAL SERVICES the sector. 
 
 
