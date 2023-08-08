@@ -13,6 +13,13 @@ The dataset can be found [here](https://drive.google.com/file/d/1QYA7J3sKzdyucj0
 
 ### Goals
 #### 1. Import the dataset to SQL and create an INVESTMENT table
+Using the table, write a query that meets the following conditions:
+- Show all the columns in the table;
+- Order the given result by the column in descending order.
+
+SQL Query: [Goal 1 Queries.txt](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290355/Goal.1.Queries.txt)
+
+Output: [Goal 1 Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290350/Goal.1.Output.xlsx)
 
 
 #### 2. Pull out data from companies that have received funding and operate within the FINANCIAL SERVICES sector.
