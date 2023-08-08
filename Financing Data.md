@@ -44,7 +44,16 @@ Output: [Goal 2b Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projec
 Output: [Goal 2c Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290745/Goal.2c.Output.xlsx)
 
 ### 3. Explore the data using SQL Queries
+#### Full SQL Query:
 
+#### 3a - Using the table investment_subset, write a SELECT query that meets the following conditions:
+- Show the columns founded_year and the COUNT() of funding_total_usd;
+- Group the result by the column founded_year;
+- Order the given result by the column founded_year (in ascending order).
+
+Output: [Goal 3a Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12291079/Goal.3a.Output.xlsx)
+
+#### 3b - 
 
 ### 4. Determine the most suitable type of funding to plan their business. 
 
