@@ -53,7 +53,18 @@ Output: [Goal 2c Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projec
 
 Output: [Goal 3a Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12291079/Goal.3a.Output.xlsx)
 
-#### 3b - 
+#### 3b - Using the investment_subset table, write a SELECT query that meets the following conditions:
+- Show the column country_code;
+- Show the column COUNT() of the column country_code with alias AS num_countries;
+- Show the column AVG() of the column seed with alias AS avg_seed;
+- Show the column AVG() of the column venture with alias AS avg_venture;
+- Filter the data where the column founded_year is BETWEEN 2010 and 2014 and (inclusive);
+- Group the data by the column country_code;
+- Order the given result by the column num_countries in descending order.
+
+Output: [Goal 3b Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12291176/Goal.3b.Output.xlsx)
+
+#### 3c - 
 
 ### 4. Determine the most suitable type of funding to plan their business. 
 
