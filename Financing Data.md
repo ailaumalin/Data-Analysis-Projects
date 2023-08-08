@@ -13,11 +13,12 @@ The dataset can be found [here](https://drive.google.com/file/d/1QYA7J3sKzdyucj0
 
 ## Goals
 ### 1. Import the dataset to SQL and create an INVESTMENT table
+
+#### Full SQL Query: [Goal 1 Queries.txt](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290355/Goal.1.Queries.txt)
+
 Using the table, write a query that meets the following conditions:
 - Show all the columns in the table;
 - Order the given result by the column in descending order.
-
-#### Full SQL Query: [Goal 1 Queries.txt](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290355/Goal.1.Queries.txt)
 
 Output: [Goal 1 Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290350/Goal.1.Output.xlsx)
 
@@ -44,7 +45,9 @@ Output: [Goal 2b Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projec
 Output: [Goal 2c Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290745/Goal.2c.Output.xlsx)
 
 ### 3. Explore the data using SQL Queries
-#### Full SQL Query:
+
+#### Full SQL Query: [Goal 3 Queries.txt](https://github.com/ailaumalin/Data-Analysis-Projects/files/12291412/Goal.3.Queries.txt)
+
 
 #### 3a - Using the table investment_subset, write a SELECT query that meets the following conditions:
 - Show the columns founded_year and the COUNT() of funding_total_usd;
@@ -64,7 +67,14 @@ Output: [Goal 3a Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projec
 
 Output: [Goal 3b Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12291176/Goal.3b.Output.xlsx)
 
-#### 3c - 
+#### 3c - Using the investment_subset table, write a SELECT query that meets the following conditions:
+- Show all the columns in the table;
+- Filter the data where the column country_code is equal to 'USA';
+- Further filter the data where the column founded_year is BETWEEN 2010 and 2014 (inclusive);
+- Order the given result by the column funding_total_usd (in ascending order).
+
+Output: [Goal 3c Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12291410/Goal.3c.Output.xlsx)
+
 
 ### 4. Determine the most suitable type of funding to plan their business. 
 
