@@ -17,7 +17,7 @@ Using the table, write a query that meets the following conditions:
 - Show all the columns in the table;
 - Order the given result by the column in descending order.
 
-SQL Query: [Goal 1 Queries.txt](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290355/Goal.1.Queries.txt)
+#### SQL Query: [Goal 1 Queries.txt](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290355/Goal.1.Queries.txt)
 
 Output: [Goal 1 Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290350/Goal.1.Output.xlsx)
 
@@ -37,6 +37,11 @@ Output: [Goal 2b Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projec
 #### 2c - Using the investment_subset table, write a query that achieves the following conditions:
 - Show all the columns in the table;
 - Order the given result by the column in descending order. 
+
+Output: [Goal 2c Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290745/Goal.2c.Output.xlsx)
+
+#### Full SQL Query: [Goal 2 Queries.txt](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290749/Goal.2.Queries.txt)
+
 
 ### 3. Explore the data using SQL Queries
 
