@@ -75,6 +75,7 @@ Output: [Goal 3b Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projec
 
 Output: [Goal 3c Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12291410/Goal.3c.Output.xlsx)
 
+The startup company decided to begin its business in the USA. Based on the funding received by the most recent companies, the startup is seeking to determine the most suitable type of funding to plan their business
 
 ### 4. Determine the most suitable type of funding to plan their business. 
 
