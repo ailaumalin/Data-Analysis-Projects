@@ -79,6 +79,20 @@ The startup company decided to begin its business in the USA. Based on the fundi
 
 ### 4. Determine the most suitable type of funding to plan their business. 
 
+#### Full SQL Query: [Goal 4 Queries.txt](https://github.com/ailaumalin/Data-Analysis-Projects/files/12291613/Goal.4.Queries.txt)
+
+Using the investment_subset  table, write a SELECT query that meets the following conditions:
+- Show the columns name, founded_year, funding_total_usd, seed, and venture
+- Create a CASE statement
+1. WHEN seed is equal to 0 and venture is greater than 0, then output the result as Venture Only
+2. WHEN seed is greater than 0 and venture is equal 0, then output the result as Seed Only
+3. ELSE output the result as Mixed ;
+4. Give the resulting column an alias AS funding_type.
+- Filter the data where the column country_code is equal to USA;
+- Further filter the data where the column founded_year is between 2010 and 2014 (inclusive);
+- Order the given result by the column funding_total_usd (in ascending order).
+
+Output: [Goal 4 Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12291669/Goal.4.Output.xlsx)
 
 ## Visualization
 
