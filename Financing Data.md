@@ -17,12 +17,15 @@ Using the table, write a query that meets the following conditions:
 - Show all the columns in the table;
 - Order the given result by the column in descending order.
 
-#### SQL Query: [Goal 1 Queries.txt](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290355/Goal.1.Queries.txt)
+#### Full SQL Query: [Goal 1 Queries.txt](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290355/Goal.1.Queries.txt)
 
 Output: [Goal 1 Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290350/Goal.1.Output.xlsx)
 
 
 ### 2. Pull out data from companies that have received funding and operate within the FINANCIAL SERVICES sector.
+
+#### Full SQL Query: [Goal 2 Queries.txt](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290749/Goal.2.Queries.txt)
+
 #### 2a - Using the table, write a statement that meets all of the following conditions:
 - Show all the columns in the table;
 - Filter the data to show the column containing the word market Financial Services;
@@ -39,9 +42,6 @@ Output: [Goal 2b Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projec
 - Order the given result by the column in descending order. 
 
 Output: [Goal 2c Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290745/Goal.2c.Output.xlsx)
-
-#### Full SQL Query: [Goal 2 Queries.txt](https://github.com/ailaumalin/Data-Analysis-Projects/files/12290749/Goal.2.Queries.txt)
-
 
 ### 3. Explore the data using SQL Queries
 
