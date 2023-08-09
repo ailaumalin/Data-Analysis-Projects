@@ -94,8 +94,5 @@ Using the investment_subset  table, write a SELECT query that meets the followin
 
 Output: [Goal 4 Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12291669/Goal.4.Output.xlsx)
 
-## Visualization
-
-
 ## Insights and Recommendations
 
