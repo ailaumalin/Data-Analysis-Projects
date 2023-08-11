@@ -95,4 +95,8 @@ Using the investment_subset  table, write a SELECT query that meets the followin
 Output: [Goal 4 Output.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12291669/Goal.4.Output.xlsx)
 
 ## Insights and Recommendations
+The goal of this task is to answer the following questions:
+- What type of funding would you recommend for the startup company?
+- Why have you recommended this option?
+
 
