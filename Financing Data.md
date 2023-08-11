@@ -99,4 +99,9 @@ The goal of this task is to answer the following questions:
 - What type of funding would you recommend for the startup company?
 - Why have you recommended this option?
 
+In this file, you'll see the tables and charts for the output generated in Goal 4. Additional visualizations had also been added - [Visualization.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12321341/Visualization.xlsx)
+
+
+
+
 
