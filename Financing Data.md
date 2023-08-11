@@ -101,6 +101,8 @@ The goal of this task is to answer the following questions:
 
 In this file, you'll see the tables and charts for the output generated in Goal 4. Additional visualizations had also been added - [Visualization.xlsx](https://github.com/ailaumalin/Data-Analysis-Projects/files/12321341/Visualization.xlsx)
 
+The visualizations can also be found [here](https://docs.google.com/document/d/1Fq-z5WTZqOEne2ao6eILmi6Q89voPS24Va7woXdicNA/edit).
+
 
 
 
