@@ -103,6 +103,16 @@ In this file, you'll see the tables and charts for the output generated in Goal 
 
 The visualizations can also be found [here](https://docs.google.com/document/d/1Fq-z5WTZqOEne2ao6eILmi6Q89voPS24Va7woXdicNA/edit).
 
+Based on the visualized data after rigorous filtering, Seed funding is the most prominent type of funding in the US and what I would also recommend for a startup company. 
+
+Based on [Investopedia](https://www.investopedia.com/terms/s/seedcapital.asp), seed funding is the foundation and the first stage in a series of four funding stages needed for a start-up to be an established company. Seed funding can be sourced from private investors, close family, friends, acquaintances, and the founders of the company. 
+
+This funding is raised in the early stages of a business and often comes from personal sources which is why the sum is only moderate. This would also explain why the collective seed funding from US companies (on the 2nd chart) only amounts to 17 million USD while the venture is at 44 million – seed funding is not a large amount but moderate only. Eventually, the company may attract more financing and catch the attention of venture capitalists.
+
+According to a [LinkedIn article](https://www.linkedin.com/pulse/importance-seed-capital-entrepreneurship-success-mario-haro-salazar/) by Mario Haro Salazar, seed capital is significant for entrepreneurs to turn their ideas into something concrete and actionable. Seed funding provides entrepreneurs resources to get ideas off the ground, develop services, products, or proposals, and create a strong foundation for their business. This will also help them assess market demand for their products/services before proceeding to large investments. 
+
+
+
 
 
 
