@@ -111,7 +111,11 @@ This funding is raised in the early stages of a business and often comes from pe
 
 According to a [LinkedIn article](https://www.linkedin.com/pulse/importance-seed-capital-entrepreneurship-success-mario-haro-salazar/) by Mario Haro Salazar, seed capital is significant for entrepreneurs to turn their ideas into something concrete and actionable. Seed funding provides entrepreneurs resources to get ideas off the ground, develop services, products, or proposals, and create a strong foundation for their business. This will also help them assess market demand for their products/services before proceeding to large investments. 
 
-
+## Resources
+- [Seed Capital: What It Is, How It Works, Example](https://www.investopedia.com/terms/s/seedcapital.asp)
+- [Seed Capital vs Venture Capital](https://omqlaw.ca/seed-capital-venture-capital/#:~:text=Seed%20capital%20is%20the%20first,is%20viable%20for%20venture%20funding.)
+- [Importance of Seed Capital in Entrepreneurship Success: A Guide for Future Business Leaders](https://www.linkedin.com/pulse/importance-seed-capital-entrepreneurship-success-mario-haro-salazar/)
+- [What are the benefits of using seed capital](https://fastercapital.com/content/What-are-the-benefits-of-using-seed-capital.html)
 
 
 
